@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portoflio/static/css/main.8840627a.css",
+    "main.js": "/Portoflio/static/js/main.2417f928.js",
+    "static/media/boys.jpg": "/Portoflio/static/media/boys.6d3ed8c52af1417aeb91.jpg",
+    "static/media/Kun.png": "/Portoflio/static/media/Kun.99469596d25a633caa47.png",
+    "static/media/Lancha.png": "/Portoflio/static/media/Lancha.7add1a3d42ffa4144c32.png",
+    "static/media/airbnb.png": "/Portoflio/static/media/airbnb.d9ad0110c6bfe6ae1b58.png",
+    "static/media/Q.png": "/Portoflio/static/media/Q.3d2e19f11e0a25f08d28.png",
+    "static/media/project1.png": "/Portoflio/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/Re.png": "/Portoflio/static/media/Re.b9fde69b74d82ebb0308.png",
+    "static/media/click.png": "/Portoflio/static/media/click.85d2bf134267901380fc.png",
+    "static/media/intro-bg.jpg": "/Portoflio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "index.html": "/Portoflio/index.html",
+    "main.8840627a.css.map": "/Portoflio/static/css/main.8840627a.css.map",
+    "main.2417f928.js.map": "/Portoflio/static/js/main.2417f928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8840627a.css",
+    "static/js/main.2417f928.js"
+  ]
+}
